@@ -1,0 +1,12 @@
+# Segredos e dados reais
+.env
+equipe.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ambientes virtuais
+venv/
+.venv/
